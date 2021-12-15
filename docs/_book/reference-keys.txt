@@ -12,8 +12,15 @@ fig:project-options
 tab:global-options-new
 tab:global-options-2
 tab:md-diff
+fig:folders
+fig:jtleek-tweet
+fig:github-edit
+fig:netlify-settings
+fig:chrome-devtools
+fig:cloudflare-dns
+tab:global-options2
 시작하기
-installation
+설치
 installation-troubleshooting
 a-quick-example
 prerequisites
@@ -84,5 +91,5 @@ version-control
 default-template
 methods
 personal-experience
-시작하기-get-started
-get-started
+content-편집하기
+의심되면-blogdowncheck_site-을-실행하라
